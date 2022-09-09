@@ -60,6 +60,7 @@ Data was finally analysed in **answering_queries.sql** along the following lines
 
 # Bonus
 As an addition, We read data from the SQL database into pandas to perform some visualisations of the data. The step by step details is shown on the **SQL_Bonus_notebook.ipynb**
+
 ![image](https://user-images.githubusercontent.com/99673859/189334025-c452b817-75f1-4c32-aab6-e7c93ac722fa.png)
 
 
