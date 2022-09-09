@@ -11,6 +11,7 @@ This task was kicked off with an inspection of the CSVs and sketching out an ERD
 # Data Engineering
 Using the provided information I created a table schema for each of the six CSV files specifying data types, primary keys, foreign keys, and other constraints.
 **(see creating_tables.sql)**
+
 ![image](https://user-images.githubusercontent.com/99673859/189304919-8887321b-002b-46e3-8e47-14e46fc9d3c0.png)
 
 
