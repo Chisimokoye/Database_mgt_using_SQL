@@ -1,4 +1,4 @@
-# SQL_Challenge
+# Databade Management using SQL
 
 This assignment is divided into three parts: data modeling, data engineering, and data analysis.
 
