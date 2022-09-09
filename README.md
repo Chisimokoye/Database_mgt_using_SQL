@@ -10,8 +10,7 @@ This task was kicked off with an inspection of the CSVs and sketching out an ERD
 
 # Data Engineering
 Using the provided information I created a table schema for each of the six CSV files specifying data types, primary keys, foreign keys, and other constraints.
-**(see creating_tables.sql)
-
+**(see creating_tables.sql)**
 ![image](https://user-images.githubusercontent.com/99673859/189304919-8887321b-002b-46e3-8e47-14e46fc9d3c0.png)
 
 
@@ -59,7 +58,7 @@ Data was finally analysed in **answering_queries.sql** along the following lines
 
 
 # Bonus
-As an addition, We read data from the SQL database into pandas to perform some visualisations of the data.
+As an addition, We read data from the SQL database into pandas to perform some visualisations of the data. The step by step details is shown on the **SQL_Bonus_notebook.ipynb**
 ![image](https://user-images.githubusercontent.com/99673859/189334025-c452b817-75f1-4c32-aab6-e7c93ac722fa.png)
 
 
